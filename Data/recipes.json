@@ -1,0 +1,195 @@
+[
+    
+    {
+        "name": "Brocollisoppa",
+        "featured": true,
+        "image" : "brocollisoppa",
+        "description": "Busenkel brocollisoppa",
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes",
+        "servings": 4,
+        "highlights": [
+            "Fast"
+        ],
+        "ingredients": [
+            "1 lök",
+            "3 potatisar",
+            "250 g brocolli",
+            "9 dl grönsaksbuljong (vatten och grönsaksfond eller tärning)",
+            "2 dl matlagningsgrädde",
+            "Salt och peppar"
+        ],
+        "directions": [
+            "Skala och skiva lök och potatis. Skär hela broccolin i bitar.",
+            "Koka upp buljongen och lägg i lök, potatis och broccoli. Koka upp och låt det koka i ca 10 minuter. Mixa soppan med en stavmixer eller i en matberedare.",
+            "Häll tillbaks i kastrullen, tillsätt matlagningsgrädde, koka upp och smaksätt med salt och peppar."
+        ]
+    },
+    {
+        "name": "Linssoppa",
+        "featured": true,
+        "image" : "linssoppa",
+        "description": "Lätt linssoppa",
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes",
+        "servings": 6,
+        "highlights": [
+            "Fast"
+        ],
+        "ingredients": [
+            "3 1/2 dl gröna linser",
+            "2 gula lökar, hackade",
+            "ca 1 1/2 l vatten",
+            "2-3 buljongtärningar",
+            "2 tsk paprikapulver",
+            "2 stora lagerblad",
+            "4 pressade vitlöksklyftor",
+            "500 g krossade tomater",
+            "timjan",
+            "balsamvinäger",
+            "svartpeppar och salt"
+        ],
+        "directions": [
+            "Fräs lök och vitlök i olja.",
+            "Häll på tomatkross och ca 1 l vatten.",
+            "Tillsätt buljongträningarna, paprikapulver och lagerblad och låt koka i 40 min på svag värme under lock.",
+            "Ta bort lagerbladen, späd soppan och krydda med timjan, vinäger, peppar och salt"
+            
+        ]
+    },
+    {
+        "name": "Potatis & Löksoppa",
+        "featured": true,
+        "image" : "potatislok",
+        "description": "Lätt potatis & löksoppa",
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes",
+        "servings": 4,
+        "highlights": [
+            "Fast"
+        ],
+        "ingredients": [
+            "ca 5 medelstora potatisar",
+            "1 gul lök",
+            "ca 10 cm purjolök",
+            "1 vitlöksklyfta",
+            "3/4 dl röda linser",
+            "1 1/2 grönsaksbuljongtärning",
+            "1 l vatten",
+            "ca 1 dl grädde eller créme fraiche",
+            "1 tsk citronsaft",
+            "1 krm malen muskotnöt",
+            "salt och svartpeppar",
+            "1 tsk smulad torkad timjan"
+        ],
+        "directions": [
+            "Hacka lök, purjo och vitlök och fräs i lite olja i en gryta.",
+            "Skala och skiva potatisen",
+            "Lägg i potatis, linser och häll på vatten och tillsätt buljongtärningarna.",
+            "Låt koka tills linser och potatis är mjuka.",
+            "Mixa eller vispa soppan, tillsätt grädde, citronsaft % kryddor. Koka upp allt igen."
+            
+        ]
+    },
+    {
+        "name": "Tomatsoppa",
+        "featured": true,
+        "image" : "tomatsoppa",
+        "description": "Tomatsoppa med majs och ingefära",
+        "prepTime": "15 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "30 minutes",
+        "servings": 4,
+        "highlights": [
+            "Fast"
+        ],
+        "ingredients": [
+            "1 gul lök, hackad",
+            "2 vitlöksklyftor, pressade",
+            "2 x 500g krossade tomater",
+            "2-3 dl matlagningsgrädde",
+            "2 msk riven färsk ingefära",
+            "1 buljongtärning",
+            "1 krm paprikapulver",
+            "3 dl majs",
+            "salt och peppar"
+        ],
+        "directions": [
+            "Fräs löken i lite olja.",
+            "Tillsätt resten av ingeredienserna förutom majsen och 1 dl grädde.",
+            "Lät sjuda några min under lock.",
+            "Mixa soppan slät och tillsätt sedan majsen.",
+            "Späd ev. med vatten och resten av grädden.",
+            "Krydda."
+            
+            
+        ]
+    },
+    {
+        "name": "Halloumi Stroganoff",
+        "featured": true,
+        "image" : "halloumistroganoff",
+        "description": "Snabb Halloumi Stroganoff",
+        "prepTime": "5 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "20 minutes",
+        "servings": 4,
+        "highlights": [
+            "Fast"
+        ],
+        "ingredients": [
+            "1 dl torra röda linser",
+            "200 g halloumi",
+            "2 morötter",
+            "1 gul lök",
+            "rapsolja till stekning",
+            "2 msk tomatpuré",
+            "2 1/2 dl matlagningsgrädde",
+            "2 dl passerade tomater",
+            "1 grönsaksbuljong",
+            "1 msk balsamvinäger",
+            "1 tsk torkad timjan",
+            "ev 1 tsk socker",
+            "salt och peppar"
+        ],
+        "directions": [
+            "Koka linserna enlight anvisningarna på förpackningen, koka riset enligt anvisningarna på förpackningen.",
+            "Skär halloumin i centimetertjocka stavar och morötterna i tunna stavar.",
+            "Hacka löken, stek löken några minuter och tillsätt sedan morot och halloumi.",
+            "Tillsätt tomatpuré, grädde, passerade tomater, buljongtärning, vinäger, timjan och ev socker.",
+            "Sila bort vattnet från linserna och rör ner dem. Koka upp och låt sjuda några minuter.",
+            "Smaka av med salt och peppar.",
+            "Servera med ris och en blandad sallad."
+            
+        ]
+    },
+    {
+        "name": "Pannkakor",
+        "featured": true,
+        "image" : "pannkaka",
+        "description": "Snabba pannkakor",
+        "prepTime": "5 minutes",
+        "cookTime": "15 minutes",
+        "totalTime": "20 minutes",
+        "servings": 2,
+        "highlights": [
+            "Fast"
+        ],
+        "ingredients": [
+            "1-2 ägg",
+            "3 dl vetemjöl",
+            "5 dl mjölk (knappt)",
+            "2 krm salt"
+        ],
+        "directions": [
+            "Vispa upp ägg och hälften av mjölken.",
+            "Tillsätt mjöl och salt och vispa smeten slät.",
+            "Häll i resten av mjölken och låt gärna smeten stå och svälla en stund.",
+            "Stek i hög temperatur."
+            
+        ]
+    }
+]
