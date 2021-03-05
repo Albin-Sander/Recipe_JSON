@@ -3,7 +3,7 @@
     {
         "name": "Brocollisoppa",
         "featured": true,
-        "image" : "./img/brocollisoppa",
+        "image" : "/img/brocollisoppa",
         "description": "Busenkel brocollisoppa",
         "prepTime": "15 minutes",
         "cookTime": "15 minutes",
