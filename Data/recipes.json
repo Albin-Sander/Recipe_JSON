@@ -3,7 +3,7 @@
     {
         "name": "Brocollisoppa",
         "featured": true,
-        "image" : "brocollisoppa",
+        "image" : "./img/brocollisoppa",
         "description": "Busenkel brocollisoppa",
         "prepTime": "15 minutes",
         "cookTime": "15 minutes",
@@ -29,7 +29,7 @@
     {
         "name": "Linssoppa",
         "featured": true,
-        "image" : "linssoppa",
+        "image" : "./img/linssoppa",
         "description": "Lätt linssoppa",
         "prepTime": "15 minutes",
         "cookTime": "15 minutes",
@@ -62,7 +62,7 @@
     {
         "name": "Potatis & Löksoppa",
         "featured": true,
-        "image" : "potatislok",
+        "image" : "./img/potatislok",
         "description": "Lätt potatis & löksoppa",
         "prepTime": "15 minutes",
         "cookTime": "15 minutes",
@@ -97,7 +97,7 @@
     {
         "name": "Tomatsoppa",
         "featured": true,
-        "image" : "tomatsoppa",
+        "image" : "./img/tomatsoppa",
         "description": "Tomatsoppa med majs och ingefära",
         "prepTime": "15 minutes",
         "cookTime": "15 minutes",
@@ -131,7 +131,7 @@
     {
         "name": "Halloumi Stroganoff",
         "featured": true,
-        "image" : "halloumistroganoff",
+        "image" : "./img/halloumistroganoff",
         "description": "Snabb Halloumi Stroganoff",
         "prepTime": "5 minutes",
         "cookTime": "15 minutes",
@@ -169,7 +169,7 @@
     {
         "name": "Pannkakor",
         "featured": true,
-        "image" : "pannkaka",
+        "image" : "./img/pannkaka",
         "description": "Snabba pannkakor",
         "prepTime": "5 minutes",
         "cookTime": "15 minutes",
