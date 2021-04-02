@@ -1,6 +1,7 @@
 [
     
     {
+        "id": 1,
         "name": "Brocollisoppa",
         "featured": true,
         "image" : "/img/brocollisoppa",
@@ -27,6 +28,7 @@
         ]
     },
     {
+        "id": 2,
         "name": "Linssoppa",
         "featured": true,
         "image" : "./img/linssoppa",
@@ -60,6 +62,7 @@
         ]
     },
     {
+        "id": 3,
         "name": "Potatis & Löksoppa",
         "featured": true,
         "image" : "./img/potatislok",
@@ -95,6 +98,7 @@
         ]
     },
     {
+        "id": 4,
         "name": "Tomatsoppa",
         "featured": true,
         "image" : "./img/tomatsoppa",
@@ -129,6 +133,7 @@
         ]
     },
     {
+        "id": 5,
         "name": "Halloumi Stroganoff",
         "featured": true,
         "image" : "./img/halloumistroganoff",
@@ -167,6 +172,7 @@
         ]
     },
     {
+        "id": 6,
         "name": "Pannkakor",
         "featured": true,
         "image" : "./img/pannkaka",
